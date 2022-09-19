@@ -6,3 +6,6 @@
 ###### 2022-3a Yu-Xuan Chen
 
 ##☀️
+
+- [ ] todo list
+- [X] done
