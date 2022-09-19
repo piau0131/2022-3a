@@ -11,3 +11,8 @@
 
 - [ ] todo list
 - [X] done
+
+```python
+s = "Python Syntax "
+
+```
